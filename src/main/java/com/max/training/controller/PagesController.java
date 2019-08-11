@@ -20,4 +20,5 @@ public class PagesController {
         return "reg_form";
     }
 
+    //test
 }
