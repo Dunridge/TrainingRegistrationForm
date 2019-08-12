@@ -168,6 +168,11 @@
               <item name="registrationformv4" type="b2602c69:ProjectViewProjectNode" />
               <item name="registrationformv4" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="registrationformv4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="registrationformv4" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -232,12 +237,12 @@
       <updated>1565518802849</updated>
       <workItem from="1565518813230" duration="10185000" />
       <workItem from="1565532253942" duration="12754000" />
-      <workItem from="1565594504759" duration="8503000" />
+      <workItem from="1565594504759" duration="11582000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31442000" />
+    <option name="totallyTimeSpent" value="34521000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -251,7 +256,7 @@
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25945947" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25945947" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -267,7 +272,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32924962" />
       <window_info anchor="bottom" id="Spring" order="7" weight="0.32924962" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.5712098" />
+      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.4486983" />
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Java Enterprise" order="11" weight="0.32924962" />
@@ -480,7 +485,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1458" />
+        <state relative-caret-position="-8424" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
